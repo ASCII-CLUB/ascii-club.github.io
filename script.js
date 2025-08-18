@@ -30,3 +30,7 @@ async function submitContactForm() {
 		alert("There was an error, please try again later");
 	}
 }
+
+function horse() {
+	window.location.href = "/images/images.jpg";
+}
