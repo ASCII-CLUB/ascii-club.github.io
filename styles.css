@@ -1,0 +1,11 @@
+.ascii-logo {
+	--text-size: 16pt;
+	font-size: var(--text-size);
+	margin: auto;
+	text-align: center;
+	color: lime;
+	background-color: black;
+	max-width: min-content;
+	padding: 0 calc(var(--text-size) * 2);
+	border-radius: 20px;
+}

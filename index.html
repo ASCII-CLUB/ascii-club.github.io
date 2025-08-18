@@ -1,20 +1,77 @@
+<!-- @author KittKat: kittkat.xyz -->
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>ASCII Club</title>
 
-  
 
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="/styles.css">
+
+    <script src="/script.js"></script>
 </head>
-<body>
-    <h1> ABOUT ME!</h1>
-    <p>
-        hello!
-    </p>
 
-    <img src="images/images.jpg">
+<body data-bs-theme="dark">
+    <main class="p-5">
+        <div class="pb-5">
+            <pre class="ascii-logo"><code>
+AAAAAA  SSSSSS  CCCCCC  IIIIII  IIIIII
+AA  AA  SS      CC        II      II  
+AAAAAA  SSSSSS  CC        II      II  
+AA  AA      SS  CC        II      II  
+AA  AA  SSSSSS  CCCCCC  IIIIII  IIIIII
+            </code></pre>
+        </div>
+
+        <div class="text-center">
+            <h2>Club Info</h2>
+        </div>
+        <ul class="list-group pt-4">
+            <li class="list-group-item d-flex justify-content-between">
+                <span><b>Meeting Time:</b></span>
+                <span class="ms-auto">Bi-Weekly, Monday, 6:30pm (starting Aug 25)</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between">
+                <span><b>Engage page:</b></span>
+                <span class="ms-auto"><a
+                        href="https://engage.appstate.edu/organization/appalachian-society-for-computing-informatics-and-">engage.appstate.edu</a></span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between">
+                <span><b>Discord:</b></span>
+                <span class="ms-auto"><a href=""></a></span>
+            </li>
+        </ul>
+
+        <div class="text-center pt-5">
+            <h2>Contact Us</h2>
+        </div>
+        <div>
+            <div class="mb-3">
+                <label for="contact-name" class="form-label">Name</label>
+                <input type="text" name="name" id="contact-name" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label for="contact-email" class="form-label">Email</label>
+                <input type="email" name="email" id="contact-email" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label for="contact-comment" class="form-label">Comment</label>
+                <textarea name="comment" id="contact-comment" rows="3" class="form-control"></textarea>
+            </div>
+            <div class="mb-3 text-center">
+                <button class="btn btn-primary" onclick="submitContactForm()">
+                    Submit
+                </button>
+            </div>
+        </div>
+    </main>
+    <!-- <img src="/images/images.jpg" alt="Its a horse???"> -->
 
 </body>
+
 </html>
