@@ -1,4 +1,4 @@
-.ascii-logo {
+#ascii-logo {
 	--text-size: 16pt;
 	font-size: var(--text-size);
 	margin: auto;

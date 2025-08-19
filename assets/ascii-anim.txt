@@ -1,0 +1,256 @@
+
+AAAAAA  SSSSSS  CCCCCC  IIIIII  IIIIII
+AA  AA  SS      CC        II      II  
+AAAAAA  SSSSSS  CC        II      II  
+AA  AA      SS  CC        II      II  
+AA  AA  SSSSSS  CCCCCC  IIIIII  IIIIII
+---
+                                      
+AAAAAA  SSSSSS  CCCCCC  IIIIII  IIIIII
+AA  AA  SS      CC        II      II  
+AAAAAA  SSSSSS  CC        II      II  
+AA  AA      SS  CC        II      II  
+AA  AA  SSSSSS  CCCCCC  IIIIII  IIIIII
+---
+                                      
+                                      
+                                      
+AAAAAA  SSSSSS  CCCCCC  IIIIII  IIIIII
+AA  AA  SS      CC        II      II  
+AAAAAA  SSSSSS  CC        II      II  
+AA  AA      SS  CC        II      II  
+AA  AA  SSSSSS  CCCCCC  IIIIII  IIIIII
+                                      
+---
+                                      
+                                      
+                                      
+                                      
+                                      
+AAAAAA  SSSSSS  CCCCCC  IIIIII  IIIIII
+AA  AA  SS      CC        II      II  
+AAAAAA  SSSSSS  CC        II      II  
+AA  AA      SS  CC        II      II  
+AA  AA  SSSSSS  CCCCCC  IIIIII  IIIIII
+                                      
+                                      
+---
+                                      
+                                      
+                                      
+                                      
+                                      
+AAAAAA  SSSSSS  CCCCCC   IIII    IIII 
+AA  AA  SS      CC        II      II  
+AAAAAA  SSSSSS  CC        II      II  
+AA  AA      SS  CC        II      II  
+AA  AA  SSSSSS  CCCCCC   IIII    IIII 
+                                      
+                                      
+---
+                                      
+                                      
+                                      
+                                      
+                                      
+AAAAAA  SSSSSS  CCCCCC                
+AA  AA  SS      CC                    
+AAAAAA  SSSSSS  CC       IIII    IIII 
+AA  AA      SS  CC        II      II  
+AA  AA  SSSSSS  CCCCCC    II      II  
+                          II      II  
+                         IIIIIIIIIIII 
+---
+                                      
+                                      
+                                      
+                                      
+                                      
+  AAAAAA  SSSSSS  CCCCCC              
+  AA  AA  SS      CC                  
+  AAAAAA  SSSSSS  CC                  
+  AA  AA      SS  CC                  
+  AA  AA  SSSSSS  CCCCCC IIII    IIII 
+                          II      II  
+              IIIIIIIIIIIIIIIIIIIIIIII
+---
+                                      
+                                      
+                                      
+                                      
+                                      
+    AAAAAA  SSSSSS  CCCCCC            
+    AA  AA  SS      CC                
+    AAAAAA  SSSSSS  CC                
+    AA  AA      SS  CC                
+    AA  AA  SSSSSS  CCCCCC            
+                                      
+              IIIIIIIIIIIIIIIIIIII    
+---
+                                      
+                                      
+                                      
+                                      
+                                      
+      AAAAAA  SSSSSS  CCCCCC          
+      AA  AA  SS      CC              
+      AAAAAA  SSSSSS  CC              
+      AA  AA      SS  CC              
+      AA  AA  SSSSSS  CCCCCC          
+                                      
+      IIIIIIIIIIIIIIIIIIIIIIIIII      
+---
+                                      
+                                      
+                                      
+                                      
+                                      
+        AAAAAA  SSSSSS  CCCCCC        
+        AA  AA  SS      CC            
+        AAAAAA  SSSSSS  CC            
+    II  AA  AA      SS  CC      II    
+    II  AA  AA  SSSSSS  CCCCCC  II    
+    II                          II    
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+---
+                                      
+                                      
+                                      
+                                      
+    II                          II    
+    II  AAAAAA  SSSSSS  CCCCCC  II    
+    II  AA  AA  SS      CC      II    
+    II  AAAAAA  SSSSSS  CC      II    
+    II  AA  AA      SS  CC      II    
+    II  AA  AA  SSSSSS  CCCCCC  II    
+    II                          II    
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+---
+                                      
+                                      
+                                      
+    IIIIIIII              IIIIIIII    
+    II                          II    
+    II  AAAAAA  SSSSSS  CCCCCC  II    
+    II  AA  AA  SS      CC      II    
+    II  AAAAAA  SSSSSS  CC      II    
+    II  AA  AA      SS  CC      II    
+    II  AA  AA  SSSSSS  CCCCCC  II    
+    II                          II    
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+---
+                                      
+                                      
+                                      
+    IIIIIIIIIIIIII  IIIIIIIIIIIIII    
+    II                          II    
+    II  AAAAAA  SSSSSS  CCCCCC  II    
+    II  AA  AA  SS      CC      II    
+    II  AAAAAA  SSSSSS  CC      II    
+    II  AA  AA      SS  CC      II    
+    II  AA  AA  SSSSSS  CCCCCC  II    
+    II                          II    
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+---
+                                      
+                                      
+               I      I               
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+    II                          II    
+    II  AAAAAA  SSSSSS  CCCCCC  II    
+    II  AA  AA  SS      CC      II    
+    II  AAAAAA  SSSSSS  CC      II    
+    II  AA  AA      SS  CC      II    
+    II  AA  AA  SSSSSS  CCCCCC  II    
+    II                          II    
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+---
+                                      
+               I      I               
+              II      II              
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+    II                          II    
+    II  AAAAAA  SSSSSS  CCCCCC  II    
+    II  AA  AA  SS      CC      II    
+    II  AAAAAA  SSSSSS  CC      II    
+    II  AA  AA      SS  CC      II    
+    II  AA  AA  SSSSSS  CCCCCC  II    
+    II                          II    
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+---
+              II      II              
+              II      II              
+              II      II              
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+    II                          II    
+    II  AAAAAA  SSSSSS  CCCCCC  II    
+    II  AA  AA  SS      CC      II    
+    II  AAAAAA  SSSSSS  CC      II    
+    II  AA  AA      SS  CC      II    
+    II  AA  AA  SSSSSS  CCCCCC  II    
+    II                          II    
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+---
+              IIIIIIIIII              
+              II      II              
+              II      II              
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+    II                          II    
+    II  AAAAAA  SSSSSS  CCCCCC  II    
+    II  AA  AA  SS      CC      II    
+    II  AAAAAA  SSSSSS  CC      II    
+    II  AA  AA      SS  CC      II    
+    II  AA  AA  SSSSSS  CCCCCC  II    
+    II                          II    
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+---
+    
+              IIIIIIIIII              
+             oII      IIo             
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+    II                          II    
+    II  AAAAAA  SSSSSS  CCCCCC  II    
+    II  AA  AA  SS      CC      II    
+    II  AAAAAA  SSSSSS  CC      II    
+    II  AA  AA      SS  CC      II    
+    II  AA  AA  SSSSSS  CCCCCC  II    
+    II                          II    
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+---
+                                      
+            o IIIIIIIIII o            
+              II      II              
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+    II                          II    
+    II  AAAAAA  SSSSSS  CCCCCC  II    
+    II  AA  AA  SS      CC      II    
+    II  AAAAAA  SSSSSS  CC      II    
+    II  AA  AA      SS  CC      II    
+    II  AA  AA  SSSSSS  CCCCCC  II    
+    II                          II    
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+---
+                                      
+              IIIIIIIIII              
+              II      II              
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+    II                          II    
+    II  AAAAAA  SSSSSS  CCCCCC  II    
+    II  AA  AA  SS      CC      II    
+    II  AAAAAA  SSSSSS  CC      II    
+    II  AA  AA      SS  CC      II    
+    II  AA  AA  SSSSSS  CCCCCC  II    
+    II                          II    
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+---
+              IIIIIIIIII              
+              II      II              
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    
+    II                          II    
+    II  AAAAAA  SSSSSS  CCCCCC  II    
+    II  AA  AA  SS      CC      II    
+    II  AAAAAA  SSSSSS  CC      II    
+    II  AA  AA      SS  CC      II    
+    II  AA  AA  SSSSSS  CCCCCC  II    
+    II                          II    
+    IIIIIIIIIIIIIIIIIIIIIIIIIIIIII    

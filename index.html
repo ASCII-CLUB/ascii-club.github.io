@@ -21,14 +21,18 @@
 
 <body data-bs-theme="dark">
     <main class="p-5 container">
-        <div class="pb-5">
-            <pre class="ascii-logo"><code>
+        <div class="pb-3">
+            <pre id="ascii-logo"><code id="ascii-logo-code" onclick="asciiAnim()">
 AAAAAA  SSSSSS  CCCCCC  IIIIII  IIII<span onclick="horse()">I</span>I
 AA  AA  SS      CC        II      II  
 AAAAAA  SSSSSS  CC        II      II  
 AA  AA      SS  CC        II      II  
 AA  AA  SSSSSS  CCCCCC  IIIIII  IIIIII
             </code></pre>
+        </div>
+
+        <div class="text-center pb-5">
+            <button class="btn btn-info" onclick="asciiAnim()">Play Animation</button>
         </div>
 
         <div class="d-flex justify-content-evenly pb-5">
