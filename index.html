@@ -20,12 +20,12 @@
 </head>
 
 <body data-bs-theme="dark">
-    <main class="p-5">
+    <main class="p-5 container">
         <div class="pb-5">
             <pre class="ascii-logo"><code>
 AAAAAA  SSSSSS  CCCCCC  IIIIII  IIII<span onclick="horse()">I</span>I
 AA  AA  SS      CC        II      II  
-<span onclick="window.location.href='https://kittkat.xyz/'">AAAAAA</span>  SSSSSS  CC        II      II  
+AAAAAA  SSSSSS  CC        II      II  
 AA  AA      SS  CC        II      II  
 AA  AA  SSSSSS  CCCCCC  IIIIII  IIIIII
             </code></pre>
@@ -33,7 +33,7 @@ AA  AA  SSSSSS  CCCCCC  IIIIII  IIIIII
 
         <div class="d-flex justify-content-evenly pb-5">
             <img src="/images/ASCII Logo.png" alt="" style="width: 7rem;">
-            <img src="/images/ASCII Logo.png" alt="" style="width: 7rem;">
+            <img src="/images/ASCII Logo.png" onclick="kat()" alt="" style="width: 7rem;">
             <img src="/images/ASCII Logo.png" alt="" style="width: 7rem;">
         </div>
 
@@ -73,7 +73,7 @@ AA  AA  SSSSSS  CCCCCC  IIIIII  IIIIII
                 <textarea name="comment" id="contact-comment" rows="3" class="form-control" required></textarea>
             </div>
             <div class="mb-3 text-center">
-                <input type="submit" value="submit" class="btn btn-info">
+                <input id="contact-submit" type="submit" value="submit" class="btn btn-info">
             </div>
         </form>
     </main>
