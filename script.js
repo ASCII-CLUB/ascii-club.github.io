@@ -49,6 +49,11 @@ function kat() {
 }
 
 async function asciiAnim() {
+	var btn = document.getElementById("ascii-anim-btn");
+	btn.classList.remove("btn-info");
+	btn.classList.add("btn-warning");
+	btn.setAttribute("onclick", "");
+
 	var element = document.getElementById("ascii-logo-code");
 	element.removeAttribute("onclick");
 	var animFileContent = loadFile("/assets/ascii-anim.txt");
@@ -57,6 +62,10 @@ async function asciiAnim() {
 		element.innerHTML = frames[i] + "\n";
 		await sleep(1000 / 3);
 	}
+
+	btn.classList.add("btn-info");
+	btn.classList.remove("btn-warning");
+	btn.setAttribute("onclick", "asciiAnim()");
 }
 
 function loadFile(filePath) {
