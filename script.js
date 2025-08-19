@@ -11,6 +11,8 @@ async function submitContactForm(ev) {
 	const email = document.getElementById("contact-email").value;
 	const comment = document.getElementById("contact-comment").value;
 
+	document.getElementById("contact-submit").style.display = "none";
+
 	const webhookbody = {
 		embeds: [{
 			title: "Contact Form (website)",
@@ -33,10 +35,10 @@ async function submitContactForm(ev) {
 	});
 
 	if (response.ok) {
-		document.getElementById("contact-submit").style.display = "none";
 		alert("Message has been recieved by club officers");
 	} else {
 		alert("There was an error, please try again later");
+		document.getElementById("contact-submit").style.display = "unset";
 	}
 }
 
