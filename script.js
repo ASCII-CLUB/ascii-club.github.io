@@ -1,4 +1,5 @@
-async function submitContactForm() {
+async function submitContactForm(ev) {
+	ev.preventDefault();
 	const name = document.getElementById("contact-name").value;
 	const email = document.getElementById("contact-email").value;
 	const comment = document.getElementById("contact-comment").value;
@@ -14,7 +15,7 @@ async function submitContactForm() {
 		}]
 	};
 
-	const webhookurl = "https://discord.com/api/webhooks/1407097018718879925/LF_CT2JOeN_O2qxuBJVmQogeEcSPzIKYfxBjYw_g0Aii-MPO4mi9A1TC1mayNjilw51S";
+	const webhookurl = "https://discord.com/api/webhooks/1407095671072358513/w3mHXxzAfBaj45iyQMkKHgBCWtZgQITtXqL2_4DW_HsCOa-eRIMLq938svmoBcunu1Kz";
 
 	const response = await fetch(webhookurl, {
 		method: "POST",
