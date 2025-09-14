@@ -8,22 +8,25 @@
     <link rel="shortcut icon" href="/images/ASCII Logo.png" type="image/png">
     <title>ASCII Club</title>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
-        crossorigin="anonymous"></script>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
 
     <link rel="stylesheet" href="/styles.css?v=202508191459">
 
     <script src="/script.js?v=202508191459"></script>
+
+    <style>
+        #iHorse {
+            cursor: help;
+        }
+    </style>
 </head>
 
 <body data-bs-theme="dark">
     <main class="p-5 container">
         <div class="pb-3">
             <pre id="ascii-logo"><code id="ascii-logo-code" onclick="asciiAnim()">
-AAAAAA  SSSSSS  CCCCCC  IIIIII  IIII<span onclick="horse()">I</span>I
+AAAAAA  SSSSSS  CCCCCC  IIIIII  IIII<span id="iHorse" onclick="horse()">I</span>I
 AA  AA  SS      CC        II      II  
 AAAAAA  SSSSSS  CC        II      II  
 AA  AA      SS  CC        II      II  
@@ -51,8 +54,7 @@ AA  AA  SSSSSS  CCCCCC  IIIIII  IIIIII
             </li>
             <li class="list-group-item d-flex justify-content-between">
                 <span><b>Engage page:</b></span>
-                <span class="ms-auto"><a
-                        href="https://engage.appstate.edu/organization/appalachian-society-for-computing-informatics-and-">https://engage.appstate.edu</a></span>
+                <span class="ms-auto"><a href="https://engage.appstate.edu/organization/appalachian-society-for-computing-informatics-and-">https://engage.appstate.edu</a></span>
             </li>
             <li class="list-group-item d-flex justify-content-between">
                 <span><b>Discord:</b></span>
